@@ -4,8 +4,6 @@
 
 Projeto acadêmico desenvolvido em equipe durante o 4º semestre de Ciência da Computação da UNINOVE.
 
-🔗 **Acesse Aqui:** [XPTO_Projeto_Uninove](https://github.com/MarcosViniTech/XPTO_Projeto_Uninove)
-
 Este repositório tem como objetivo documentar minha participação no projeto, destacando as atividades de organização dos arquivos, estruturação do repositório no GitHub e produção audiovisual da apresentação final.
 
 ## 📂 Organização e estruturação do GitHub
