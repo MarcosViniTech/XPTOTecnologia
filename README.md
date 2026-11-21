@@ -37,7 +37,7 @@ O objetivo foi reunir os diferentes elementos em uma apresentação visual organ
 
 ### Vídeo de apresentação
 
-**Link:** Em breve.
+**Link:** [Vídeo de apresentação](https://youtu.be/rHfejCNPnYc)
 
 ## 🎓 Contexto acadêmico
 
