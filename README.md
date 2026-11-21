@@ -8,7 +8,7 @@ Este repositório tem como objetivo documentar minha participação no projeto, 
 
 ## 📂 Organização e estruturação do GitHub
 
-Fiquei responsável pela criação, estruturação e organização do repositório principal do projeto no GitHub, reunindo os arquivos, pastas e materiais desenvolvidos pelos integrantes da equipe.
+Criei, estruturei e organizei o repositório principal do projeto no GitHub, reunindo os arquivos, pastas e materiais desenvolvidos pelos integrantes da equipe.
 
 Entre as atividades realizadas:
 
@@ -23,13 +23,13 @@ O repositório reúne os materiais e entregas do projeto acadêmico, permitindo 
 
 ## 🎬 Edição do vídeo de apresentação
 
-Fiquei responsável pela edição e montagem do vídeo de apresentação final do projeto, utilizando como base a gravação de áudio realizada pelo integrante Marco.
+Editei e fiz a montagem do vídeo de apresentação final do projeto, utilizando como base a gravação de áudio realizada pelo integrante Marco.
 
 As atividades envolveram:
 
 - Criação de imagens para ilustrar e demonstrar o projeto.
 - Gravação de vídeos das telas e funcionalidades desenvolvidas.
-- Organização das imagens, gravações e demais elementos visuais.
+- Organização das imagens, gravações, cortes e demais elementos visuais.
 - Montagem e sincronização dos vídeos com a narração.
 - Edição e finalização do material utilizando CapCut.
 
